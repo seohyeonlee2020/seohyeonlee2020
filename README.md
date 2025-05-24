@@ -6,20 +6,14 @@
 🎓 **Computer Science @ Pomona College** (currently on leave)  
 💻 **Aspiring Software Engineer & Machine Learning Enthusiast**
 
----
-
 Hello! I'm a CS student passionate about building impactful applications—whether it's full-stack engineering, training deep learning models, or tackling technical challenges at hackathons. I thrive on solving complex problems and love collaborating with others to create meaningful tech solutions.
-
----
 
 ## 🚀 Projects & Achievements
 
 - 🏆 **SacHacks VI Winner** – Built **VisLink**, a hands-free desktop app using OpenCV & Mediapipe
 - 🔥 **CNN Wildfire Detection** – Developed a PyTorch model to detect wildfires from satellite images (96% accuracy)
 - 💳 **Financial Fraud Detection** – Improved ML model accuracy from 92% to 96% by handling missing email data
-- 👩‍🏫 **Art Portfolio** – Coded a portfolio website to showcase my art
-
----
+- 👩‍🏫 **Art Portfolio** – React website to showcase my art
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +35,6 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="40" height="40"/>
 </p>
 
 ---
@@ -62,11 +55,7 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeonlee2020&layout=compact&hide=html,css&theme=default" alt="Alex's Top Languages" height="160"/>
 </p>
 
----
-
-## 🤝 Let’s Connect!
-
-I’m actively seeking software engineering or machine learning internships. I'm also open to freelance opportunities.  
+Thanks for stopping by! :)  
 
 <!--
 **Contact:**  
