@@ -30,6 +30,8 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </div>
   
   <span><strong>Frontend</strong></span>
@@ -39,14 +41,8 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </div>
-
-  <span><strong>Tools</strong></span>
-  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </div>
 </p>
 
 **Thanks for stopping by! :)**
