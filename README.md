@@ -1,7 +1,7 @@
 ## Hi, I'm Alex 👋
 
 <!--
-**seohyeonlee2020/seohyeonlee2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seohyeonlee2020/seohyeonlee2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🎓 **Computer Science @ Pomona College** (currently on leave)  
 💻 **Aspiring Software Engineer & Machine Learning Enthusiast**
