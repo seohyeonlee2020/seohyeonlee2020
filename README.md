@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
 
 <!--
 **seohyeonlee2020/seohyeonlee2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 Hi, I'm Seohyeon Lee!
-
-🎓 **Computer Science Student @ Pomona College** (currently on leave)  
+🎓 **Computer Science @ Pomona College** (currently on leave)  
 💻 **Aspiring Software Engineer & Machine Learning Enthusiast**
 
 ---
@@ -20,7 +18,7 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
 - 🔥 **CNN Wildfire Detection** – Developed a PyTorch model to detect wildfires from satellite images (96% accuracy)
 - 💳 **Financial Fraud Detection** – Improved ML model accuracy from 92% to 96% by handling missing email data
 - 👩‍🏫 **Art Portfolio** – Coded a portfolio website to showcase my art
-- 🏅 **Grace Hopper & Tapia Conference Scholar (2023)** – Selected for leading computing conferences
+- 🏅 **Grace Hopper & Tapia Conference Scholar (2023)** – Selected for computing conferences
 
 ---
 
