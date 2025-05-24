@@ -8,19 +8,12 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
  - 🔥 Brushing up on machine learning skills and the math behind it
  - 🌱 Learning Django and diving deeper into full-stack development
 
-### 🤔 Projects & Achievements
+### Projects & Achievements
 
  - **SacHacks VI Winner**: Built **VisLink**, a hands-free desktop app using OpenCV & Mediapipe
  - **CNN Wildfire Detection**: Developed a PyTorch model to detect wildfires from satellite images (96% accuracy)
  - **Financial Fraud Detection**: Improved ML model accuracy from 92% to 96% by handling missing email data
-
-### 🌟 Leadership & Collaboration
-
-- **Hackathon Website Development**  
-  Led a team to refactor code, resolve Git issues, and improve web accessibility
-
-- **Teaching Assistant**  
-  Learned to communicate CS concepts in straightforward language to beginners
+ - **Hackathon Website Development**: Led a team to refactor code, resolve Git issues, and improve web accessibility
 
 ## 🛠️ Tech Stack
 
@@ -56,4 +49,4 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
   </div>
 </p>
 
-Thanks for stopping by! :)  
+**Thanks for stopping by! :)**
