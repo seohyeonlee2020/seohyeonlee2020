@@ -18,7 +18,6 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
 - 🔥 **CNN Wildfire Detection** – Developed a PyTorch model to detect wildfires from satellite images (96% accuracy)
 - 💳 **Financial Fraud Detection** – Improved ML model accuracy from 92% to 96% by handling missing email data
 - 👩‍🏫 **Art Portfolio** – Coded a portfolio website to showcase my art
-- 🏅 **Grace Hopper & Tapia Conference Scholar (2023)** – Selected for computing conferences
 
 ---
 
@@ -53,23 +52,21 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
   Led a team to refactor code, resolve Git issues, and improve web accessibility
 
 - **Teaching Assistant**  
-  Broke down complex CS concepts like recursion for beginners
-
+  Learned to communicate CS concepts in straightforward language to beginners
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seohyeonlee2020&show_icons=true&theme=default" alt="Seohyeon's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeonlee2020&layout=compact&hide=html,css&theme=default" alt="Seohyeon's Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seohyeonlee2020&show_icons=true&theme=default" alt="Alex's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeonlee2020&layout=compact&hide=html,css&theme=default" alt="Alex's Top Languages" height="160"/>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect!
 
-I’m actively seeking software engineering or machine learning internships and open to freelance opportunities.  
-If you're looking for a developer who thrives on solving complex problems and delivering impactful results, let’s chat!
+I’m actively seeking software engineering or machine learning internships. I'm also open to freelance opportunities.  
 
 <!--
 **Contact:**  
