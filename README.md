@@ -1,8 +1,5 @@
 ## Hi, I'm Alex 👋
 
-<!--
-**seohyeonlee2020/seohyeonlee2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 🎓 **Computer Science @ Pomona College** (currently on leave)  
 💻 **Aspiring Software Engineer & Machine Learning Enthusiast**
 
@@ -37,8 +34,6 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
----
-
 ## 🌟 Leadership & Collaboration
 
 - **Hackathon Website Development**  
@@ -46,7 +41,7 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
 
 - **Teaching Assistant**  
   Learned to communicate CS concepts in straightforward language to beginners
----
+
 
 ## 📊 GitHub Stats
 
@@ -56,13 +51,3 @@ Hello! I'm a CS student passionate about building impactful applications—wheth
 </p>
 
 Thanks for stopping by! :)  
-
-<!--
-**Contact:**  
-[Add your LinkedIn, Email, or personal website here!]
--->
-
----
-
-_Thanks for stopping by!_
--->
