@@ -4,9 +4,8 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
 
 ### What I'm working on
 
- - 🎨 Building a React portfolio site to showcase my artwork
- - 🔥 Brushing up on machine learning skills and the math behind it
- - 🌱 Learning Django and diving deeper into full-stack development
+ - 🌱 FarmAI: Building a climate-smart farming advice chatbot that runs offline
+ - 🔥 Naver Boostcamp AI Tech: Brushing up on machine learning skills and the math behind it
 
 ### Projects & Achievements
 
