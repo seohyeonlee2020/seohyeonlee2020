@@ -5,7 +5,6 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
 ### What I'm working on
 
  - 🌱 FarmAI: Building a climate-smart farming advice chatbot that runs offline
- - 🔥 Naver Boostcamp AI Tech: Brushing up on machine learning skills and the math behind it
 
 ### Projects & Achievements
 
