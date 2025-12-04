@@ -2,12 +2,8 @@
 
 For me, coding means dreaming on a keyboard. I build websites and ML models to tackle problems that resonate with me. 
 
-### What I'm working on
-
- - 🌱 FarmAI: Building a climate-smart farming advice chatbot that runs offline
-
-### Projects & Achievements
-
+### Projects
+ - **FarmAI**: Climate-smart farming advice chatbot that runs offline
  - **Computational Search for Ribbon Links**: Wrote a SageMath script to test for logical obstructions to automate the screening process to find desired mathematical objects for knot theory research
  - **SacHacks VI Winner**: Built **VisLink**, a hands-free desktop app using OpenCV & Mediapipe
  - **CNN Wildfire Detection**: Developed a PyTorch model to detect wildfires from satellite images (96% accuracy)
