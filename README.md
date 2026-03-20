@@ -8,9 +8,15 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
 
 ## 🛠️ Tech Stack
 
-  <span><strong>Machine Learning/Backend</strong></span>
+#### GenAI & RAG
+Hugging Face, LangChain, Ollama, Streamlit
+
+#### Math related tools
+Sage, SnapPy, networkX, LaTeX
+
+<span><strong>ML/DL</strong></span>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -29,8 +35,6 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </div>
 </p>
 
