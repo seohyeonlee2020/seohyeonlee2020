@@ -4,7 +4,7 @@ For me, coding means dreaming on a keyboard. I build websites and ML models to t
 
 ### Projects
  - **AgriAdvice**: Offline chatbot that delivers farming advice in low-connectivity areas. 
- - **Computational Search for Ribbon Links**: Wrote a SageMath script to test for logical obstructions to automate the screening process to find desired mathematical objects for knot theory research
+ - **Computational Search for Ribbon Links**: Automated the process of applying ribbon obstructions to links with up to 14 crossings (work in progress)
 
 ## 🛠️ Tech Stack
 
