@@ -1,9 +1,7 @@
-## Hi, I'm Alex 🛸
-
-For me, coding means dreaming on a keyboard. I build websites and ML models to tackle problems that resonate with me. 
+I love coming up with out-of-the-box solutions to unusual problems. I'm doing research to make small language models work offline on ordinary laptops. I also freelance with businesses to build applied AI systems to solve their operational bottlenecks. Before that, I've developed an automatic verification pipeline for a knot theory research team and taught math. 
 
 ### Projects
- - **A Localized, Traceable, and Vendor-Agnostic RAG Architecture for Low-Connectivity Edge Deployment**: WiML @ ICML poster accepted!
+ - **offline RAG + sLM for natural disaster relief**: emergency safety advice during natural disasters
  - **Computational Search for Ribbon Links**: Automated the process of applying ribbon obstructions to links with up to 14 crossings (work in progress)
 
 **Thanks for stopping by! :)**
